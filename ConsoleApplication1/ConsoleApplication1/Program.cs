@@ -10,9 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            // simple test app
+            //simple test app
             // added comments or functionality
-            Console.WriteLine("Hallo Wereld!");
+            Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
     }
