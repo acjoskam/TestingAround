@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //simple test app
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hallo Wereld!");
             Console.ReadKey();
         }
     }
