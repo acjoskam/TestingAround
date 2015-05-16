@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             //simple test app
             // added comments or functionality
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hallo Wereld!");
             Console.ReadKey();
         }
     }
